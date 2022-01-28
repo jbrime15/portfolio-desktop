@@ -195,6 +195,10 @@ img {
   cursor: pointer;
 }
 
+.footer-icons {
+  list-style-type: none;
+}
+
 .footer-icon {
   border-radius: 8px;
   background: #f7f7f9;
